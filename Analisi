@@ -1,0 +1,14 @@
+
+    CIFRARIO DI VIGENERE
+
+    CODICI ASCII
+
+    - Prima lettera: (A) 65 - (a) 97
+    - Ultima lettera: (Z) 90 - (z) 122
+
+    - Lunghezza del cifrario: 97 - 65 = 32
+                              122 - 90 = 32
+
+                              *** 32 + 32 = 64 ***
+
+    -

@@ -1,5 +1,22 @@
 # ninja log v5
-2	141	7320179810344132	CMakeFiles/C_CifrarioDiVigenere.dir/main.c.obj	474015c8cd2aba27
-11	160	7320179810500376	CMakeFiles/C_CifrarioDiVigenere.dir/codifica.c.obj	5183251248522ac2
-18	165	7320179810500376	CMakeFiles/C_CifrarioDiVigenere.dir/decodifica.c.obj	cfebf4b6d4de0366
-167	299	7320179811907230	C_CifrarioDiVigenere.exe	b73e60393e93570
+5	106	7332276839495795	CMakeFiles/C_CifrarioDiVigenere.dir/main.c.obj	474015c8cd2aba27
+8	95	7332276839495795	CMakeFiles/C_CifrarioDiVigenere.dir/codifica.c.obj	5183251248522ac2
+9	87	7332272063530437	CMakeFiles/C_CifrarioDiVigenere.dir/decodifica.c.obj	cfebf4b6d4de0366
+107	220	7332276840756791	C_CifrarioDiVigenere.exe	b73e60393e93570
+4	1140	7332285502956922	build.ninja	5f2c267da5eb3cf9
+4	93	7332285508159564	CMakeFiles/C_CifrarioDiVigenere.dir/main.c.obj	474015c8cd2aba27
+95	188	7332285509093081	C_CifrarioDiVigenere.exe	509178138a2fa834
+5	87	7332285878036058	CMakeFiles/C_CifrarioDiVigenere.dir/main.c.obj	474015c8cd2aba27
+89	167	7332285878816941	C_CifrarioDiVigenere.exe	509178138a2fa834
+5	90	7332287778194727	CMakeFiles/C_CifrarioDiVigenere.dir/main.c.obj	474015c8cd2aba27
+93	170	7332287778976020	C_CifrarioDiVigenere.exe	509178138a2fa834
+6	87	7332288461261726	CMakeFiles/C_CifrarioDiVigenere.dir/main.c.obj	474015c8cd2aba27
+90	165	7332288462043128	C_CifrarioDiVigenere.exe	509178138a2fa834
+4	82	7332288933879270	CMakeFiles/C_CifrarioDiVigenere.dir/main.c.obj	474015c8cd2aba27
+85	159	7332288934672020	C_CifrarioDiVigenere.exe	509178138a2fa834
+4	94	7332291471639336	CMakeFiles/C_CifrarioDiVigenere.dir/main.c.obj	474015c8cd2aba27
+97	176	7332291472420672	C_CifrarioDiVigenere.exe	509178138a2fa834
+5	89	7332292581580416	CMakeFiles/C_CifrarioDiVigenere.dir/main.c.obj	474015c8cd2aba27
+91	171	7332292582517745	C_CifrarioDiVigenere.exe	509178138a2fa834
+6	88	7332292958541483	CMakeFiles/C_CifrarioDiVigenere.dir/main.c.obj	474015c8cd2aba27
+91	167	7332292959322786	C_CifrarioDiVigenere.exe	509178138a2fa834

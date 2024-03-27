@@ -55,18 +55,6 @@ build CMakeFiles/C_CifrarioDiVigenere.dir/main.c.obj: C_COMPILER__C_CifrarioDiVi
   OBJECT_DIR = CMakeFiles\C_CifrarioDiVigenere.dir
   OBJECT_FILE_DIR = CMakeFiles\C_CifrarioDiVigenere.dir
 
-build CMakeFiles/C_CifrarioDiVigenere.dir/decodifica.c.obj: C_COMPILER__C_CifrarioDiVigenere_unscanned_Debug K$:/Informatica/C-CifrarioDiVigenere/decodifica.c || cmake_object_order_depends_target_C_CifrarioDiVigenere
-  DEP_FILE = CMakeFiles\C_CifrarioDiVigenere.dir\decodifica.c.obj.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\C_CifrarioDiVigenere.dir
-  OBJECT_FILE_DIR = CMakeFiles\C_CifrarioDiVigenere.dir
-
-build CMakeFiles/C_CifrarioDiVigenere.dir/codifica.c.obj: C_COMPILER__C_CifrarioDiVigenere_unscanned_Debug K$:/Informatica/C-CifrarioDiVigenere/codifica.c || cmake_object_order_depends_target_C_CifrarioDiVigenere
-  DEP_FILE = CMakeFiles\C_CifrarioDiVigenere.dir\codifica.c.obj.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\C_CifrarioDiVigenere.dir
-  OBJECT_FILE_DIR = CMakeFiles\C_CifrarioDiVigenere.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target C_CifrarioDiVigenere
@@ -75,7 +63,7 @@ build CMakeFiles/C_CifrarioDiVigenere.dir/codifica.c.obj: C_COMPILER__C_Cifrario
 #############################################
 # Link the executable C_CifrarioDiVigenere.exe
 
-build C_CifrarioDiVigenere.exe: C_EXECUTABLE_LINKER__C_CifrarioDiVigenere_Debug CMakeFiles/C_CifrarioDiVigenere.dir/main.c.obj CMakeFiles/C_CifrarioDiVigenere.dir/decodifica.c.obj CMakeFiles/C_CifrarioDiVigenere.dir/codifica.c.obj
+build C_CifrarioDiVigenere.exe: C_EXECUTABLE_LINKER__C_CifrarioDiVigenere_Debug CMakeFiles/C_CifrarioDiVigenere.dir/main.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\C_CifrarioDiVigenere.dir

@@ -15,5 +15,6 @@ char toLower(char c);
 void eliminaACapo(char str[]);
 void codificaIlMessaggio(char strCod[], char strDec[]);
 void decifraIlMessaggio(char strCod[], char strDec[]);
+char shift(char lettera, int offset);
 
 #endif //C_CIFRARIODIVIGENERE_HEADER_H
